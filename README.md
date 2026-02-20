@@ -67,13 +67,9 @@
 
 ## 🖼️ Screenshots
 
-| Student Dashboard | Teacher — Grade Submission |
-|---|---|
-| Assignment cards with live countdown timers, status badges, and submission shortcuts | Side-by-side file viewer with sticky grading panel and score progress bar |
+| Student Dashboard | Teacher — Grade Submission |  | Admin Panel | Submit Assignment |
 
-| Admin Panel | Submit Assignment |
-|---|---|
-| Stats overview, user management table with activate/deactivate controls | Drag & drop upload zone with file type icons and inline preview |
+
 
 ---
 
