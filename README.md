@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1240" height="833" alt="image" src="https://github.com/user-attachments/assets/142fd0a5-2054-4afa-bb7b-4e3072fbfcf0" /><img width="1240" height="634" alt="image" src="https://github.com/user-attachments/assets/039cb434-a6d3-4396-826d-db899ef16ba4" /><div align="center">
 
 <h1>📚 AssignPortal</h1>
 
@@ -74,18 +74,16 @@
     <td align="center"><b>Teacher — Grade Submission</b></td>
   </tr>
   <tr>
-    <td><img width="420" alt="image" src="https://github.com/user-attachments/assets/7d89c12b-5e09-4871-9b4d-568d0cd40a71" /></td>
-    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/a6d35d75-ea0c-48d7-a761-24f6a59d60af" />
-</td>
+    <td><img width="420" alt="image" src="https://github.com/user-attachments/assets/d8c61c78-b241-4e3b-8b28-5222311d4156"  /></td>
+    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/039cb434-a6d3-4396-826d-db899ef16ba4" /> </td>
   </tr>
   <tr>
     <td align="center"><b>Admin Panel</b></td>
     <td align="center"><b>Submit Assignment</b></td>
   </tr>
   <tr>
-    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/a19c39d3-21fe-43ea-a0f8-938d0e495192" />
-</td>
-    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/25089123-f65e-4254-b68e-688cc26b6283" />
+    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/142fd0a5-2054-4afa-bb7b-4e3072fbfcf0" /> </td>
+    <td><img width="420"  alt="image" src="https://github.com/user-attachments/assets/17511c28-3bff-43e4-82c3-dc850af726cc" />
 </td>
   </tr>
 </table>
