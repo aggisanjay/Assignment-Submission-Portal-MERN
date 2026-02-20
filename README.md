@@ -1,13 +1,13 @@
 <div align="center">
 
+<h1>📚 AssignPortal</h1>
+
+<p><strong>A full-featured Assignment Submission Portal built with the MERN stack</strong></p>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" />
-
-<h1>📚 AssignPortal</h1>
-
-<p><strong>A full-featured Assignment Submission Portal built with the MERN stack</strong></p>
 
 <p>
   <a href="#-features"><img src="https://img.shields.io/badge/Features-8-6366f1?style=for-the-badge" /></a>
