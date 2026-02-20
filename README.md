@@ -1,4 +1,4 @@
-<img width="1240" height="833" alt="image" src="https://github.com/user-attachments/assets/142fd0a5-2054-4afa-bb7b-4e3072fbfcf0" /><img width="1240" height="634" alt="image" src="https://github.com/user-attachments/assets/039cb434-a6d3-4396-826d-db899ef16ba4" /><div align="center">
+<div align="center">
 
 <h1>📚 AssignPortal</h1>
 
